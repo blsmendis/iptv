@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="HiruTV.lk" tvg-name="Hiru TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Hiru_TV_logo.png" group-title="Sri Lanka",Hiru TV
-http://103.226.213.242:8081/hiru/hiru/playlist.m3u8
+#EXTINF:-1 tvg-id="HiruTV.lk" tvg-name="Hiru TV" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/lk/hiru_tv.png" group-title="Sri Lanka",Hiru TV
+https://prod-ent-live-gm.jiocinema.com/hls/live/2034989/hd_akamai_android_voot_tv_hiru_tv_1908/master.m3u8
 
-#EXTINF:-1 tvg-id="TVDerana.lk" tvg-name="TV Derana" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/TV_Derana.png" group-title="Sri Lanka",TV Derana
+#EXTINF:-1 tvg-id="TVDerana.lk" tvg-name="TV Derana" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/lk/tv_derana.png" group-title="Sri Lanka",TV Derana
 https://prod-ent-live-gm.jiocinema.com/hls/live/2034988/hd_akamai_android_voot_tv_derana_1908/master.m3u8
 
-#EXTINF:-1 tvg-id="Swarnavahini.lk" tvg-name="Swarnavahini" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/Swarnavahini_logo.png" group-title="Sri Lanka",Swarnavahini
-http://103.226.213.242:8081/swarnawahini/swarnawahini/playlist.m3u8
+#EXTINF:-1 tvg-id="Swarnavahini.lk" tvg-name="Swarnavahini" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/lk/swarnavahini.png" group-title="Sri Lanka",Swarnavahini
+https://prod-ent-live-gm.jiocinema.com/hls/live/2034986/hd_akamai_android_voot_tv_swarnavahini_1908/master.m3u8
 
-#EXTINF:-1 tvg-id="ITN.lk" tvg-name="ITN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/ITN_Sri_Lanka_logo.png" group-title="Sri Lanka",ITN
-http://103.226.213.242:8081/itn/itn/playlist.m3u8
+#EXTINF:-1 tvg-id="ITN.lk" tvg-name="ITN" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/lk/itn.png" group-title="Sri Lanka",ITN
+https://prod-ent-live-gm.jiocinema.com/hls/live/2034985/hd_akamai_android_voot_tv_itn_1908/master.m3u8
 
-#EXTINF:-1 tvg-id="Rupavahini.lk" tvg-name="Rupavahini" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Sri_Lanka_Rupavahini_Corporation_logo.png" group-title="Sri Lanka",Rupavahini
-http://103.226.213.242:8081/rupavahini/rupavahini/playlist.m3u8
+#EXTINF:-1 tvg-id="Rupavahini.lk" tvg-name="Rupavahini" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/lk/rupavahini.png" group-title="Sri Lanka",Rupavahini
+https://prod-ent-live-gm.jiocinema.com/hls/live/2034987/hd_akamai_android_voot_tv_rupavahini_1908/master.m3u8
