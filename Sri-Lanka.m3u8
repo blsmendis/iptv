@@ -2,3 +2,6 @@
 
 #EXTINF:-1 tvg-id="SirasaTV.lk" tvg-logo="https://i.imgur.com/K502z1o.png" group-title="Sri Lanka",Sirasa TV
 https://dtvlive-lh.akamaihd.net/i/dtvlive_1@304192/master.m3u8
+
+#EXTINF:-1 tvg-id="HiruTV.lk" tvg-logo="https://i.imgur.com/3ynffEX.png" group-title="Sri Lanka",Hiru TV
+https://cdn-live.hirutv.lk/live/hirutv-live/index.m3u8
