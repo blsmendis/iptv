@@ -1,35 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml"
+#EXTM3U
 
-#EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/hk/bloomberg_tv_asia.png" group-title="Business",Bloomberg TV Asia (720p)
-https://bloomberg.com/media-manifest/streams/asia.m3u8
-
-#EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.hk" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/hk/bloomberg_tv_asia.png" group-title="Business",Bloomberg TV Asia Live Event (720p)
-https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-
-#EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/sg/cnbc_asia.png" group-title="Business",CNBC Asia (1080p)
-https://live.cnbcasia.com/hls/cnbc_asia@700000/master-6M.m3u8
-
-
-#EXTINF:-1 tvg-id="EWTNAsiaPacific.us" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/us/ewtn.png" group-title="Religious",EWTN Asia-Pacific (576p)
-https://d2lckchr99sb6w.cloudfront.net/out/v1/a2e2f10fefe84f09a1f5de184a4a58e4/index.m3u8
-
-#EXTINF:-1 tvg-id="HiruTV.lk" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/lk/hiru_tv.png" group-title="Entertainment",Hiru TV (720p)
-https://prod-ent-live-gm.jiocinema.com/hls/live/2034989/hd_akamai_android_voot_tv_hiru_tv_1908/master.m3u8
-
-#EXTINF:-1 tvg-id="ITN.lk" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/lk/itn.png" group-title="Entertainment",ITN (720p)
-https://prod-ent-live-gm.jiocinema.com/hls/live/2034985/hd_akamai_android_voot_tv_itn_1908/master.m3u8
-
-#EXTINF:-1 tvg-id="SiyathaTV.lk" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/lk/siyatha_tv.png" group-title="Entertainment",Siyatha TV (480p)
-https://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
-
-#EXTINF:-1 tvg-id="SmithsonianChannel.us" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/us/smithsonian_channel.png" group-title="Documentary",Smithsonian Channel (1080p)
-https://smithsonian-fast-prod.aws.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Swarnavahini.lk" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/lk/swarnavahini.png" group-title="Entertainment",Swarnavahini (720p)
-https://prod-ent-live-gm.jiocinema.com/hls/live/2034986/hd_akamai_android_voot_tv_swarnavahini_1908/master.m3u8
-
-#EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/fr/tv5monde.png" group-title="General",TV5Monde Pacifique (1080p)
-https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
-
-#EXTINF:-1 tvg-id="VerbumTV.lk" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/lk/verbum_tv.png" group-title="Religious",Verbum TV (404p)
-https://verbumtv.livebox.co.in/verbumtvhls/live.m3u8
+#EXTINF:-1 tvg-id="SirasaTV.lk" tvg-logo="https://i.imgur.com/K502z1o.png" group-title="Sri Lanka",Sirasa TV
+https://d30422502888.cloudfront.net/v1/master/9d91986e587114256e66c116d411e747102e1c94/cc-sirasatv/cc-sirasatv.m3u8
