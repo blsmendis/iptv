@@ -9,6 +9,7 @@ https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/sg/cnbc_asia.png" group-title="Business",CNBC Asia (1080p)
 https://live.cnbcasia.com/hls/cnbc_asia@700000/master-6M.m3u8
 
+
 #EXTINF:-1 tvg-id="EWTNAsiaPacific.us" tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/us/ewtn.png" group-title="Religious",EWTN Asia-Pacific (576p)
 https://d2lckchr99sb6w.cloudfront.net/out/v1/a2e2f10fefe84f09a1f5de184a4a58e4/index.m3u8
 
