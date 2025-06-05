@@ -1,13 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HiruTV.lk" group-title="Sri Lanka",Hiru TV
+
+# Hiru TV
+#EXTINF:-1 tvg-id="HiruTV.lk" tvg-name="Hiru TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Hiru_TV_logo.png" group-title="Sri Lanka", Hiru TV
 https://us.watchod.lk/hls/hirutv.m3u8
 
-#EXTINF:-1 tvg-id="TVDerana.lk" tvg-name="TV Derana" group-title="Sri Lanka", TV Derana
+# TV Derana
+#EXTINF:-1 tvg-id="TVDerana.lk" tvg-name="TV Derana" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/94/TV_Derana.png" group-title="Sri Lanka", TV Derana
 https://ythls.onrender.com/channel/UCbkMFGQ_RWIf0OiYeOpf6Ng.m3u8
 
-#EXTINF:-1 tvg-id="Swarnavahini.lk" group-title="Sri Lanka",Swarnavahini
+# Swarnavahini
+#EXTINF:-1 tvg-id="Swarnavahini.lk" tvg-name="Swarnavahini" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/Swarnavahini_logo.png" group-title="Sri Lanka", Swarnavahini
 https://swarnavahini.lk/live/swarnavahini.m3u8
-#EXTINF:-1 tvg-id="ITN.lk" group-title="Sri Lanka",ITN
+
+# ITN
+#EXTINF:-1 tvg-id="ITN.lk" tvg-name="ITN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/ITN_Sri_Lanka_logo.png" group-title="Sri Lanka", ITN
 https://cdn2.itn.lk/itnlive/live0/playlist.m3u8
-#EXTINF:-1 tvg-id="Rupavahini.lk" group-title="Sri Lanka",Rupavahini
+
+# Rupavahini
+#EXTINF:-1 tvg-id="Rupavahini.lk" tvg-name="Rupavahini" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/Sri_Lanka_Rupavahini_Corporation_logo.png" group-title="Sri Lanka", Rupavahini
 https://cdn.rupavahini.lk:7443/live/stream/playlist.m3u8
