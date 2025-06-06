@@ -1,7 +1,31 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="SirasaTV.lk" tvg-logo="https://i.imgur.com/K502z1o.png" group-title="Sri Lanka",Sirasa TV
-https://dtvlive-lh.akamaihd.net/i/dtvlive_1@304192/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-
-#EXTINF:-1 tvg-id="HiruTV.lk" tvg-logo="https://i.imgur.com/3ynffEX.png" group-title="Sri Lanka",Hiru TV
-https://cdn-live.hirutv.lk/live/hirutv-live/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TEN Sports Pakistan" tvg-name="TEN Sports Pakistan" tvg-logo="https://i.imgur.com/2s30T5X.png" group-title="Sports",TEN Sports Pakistan
+http://ott.crichd.vip:8080/tprdugq9a/tprdugq9a/250785
+#EXTINF:-1 tvg-id="A Sports HD" tvg-name="A Sports HD" tvg-logo="https://i.imgur.com/z48sM5N.png" group-title="Sports",A Sports HD
+http://ott.crichd.vip:8080/tprdugq9a/tprdugq9a/250791
+#EXTINF:-1 tvg-id="PTV Sports" tvg-name="PTV Sports" tvg-logo="https://i.imgur.com/Xaa92Yf.png" group-title="Sports",PTV Sports
+http://ott.crichd.vip:8080/tprdugq9a/tprdugq9a/250793
+#EXTINF:-1 tvg-id="Willow HD" tvg-name="Willow HD" tvg-logo="https://i.imgur.com/WbBfN4N.png" group-title="Sports",Willow HD
+http://ott.crichd.vip:8080/tprdugq9a/tprdugq9a/250794
+#EXTINF:-1 tvg-id="Sky Sports Cricket" tvg-name="Sky Sports Cricket" tvg-logo="https://i.imgur.com/zJ7mY8W.png" group-title="Sports",Sky Sports Cricket
+http://ott.crichd.vip:8080/tprdugq9a/tprdugq9a/250795
+#EXTINF:-1 tvg-id="Sky Sports Main Event" tvg-name="Sky Sports Main Event" tvg-logo="https://i.imgur.com/vHjz3g0.png" group-title="Sports",Sky Sports Main Event
+http://ott.crichd.vip:8080/tprdugq9a/tprdugq9a/250796
+#EXTINF:-1 tvg-id="Super-Sport Cricket" tvg-name="Super-Sport Cricket" tvg-logo="https://i.imgur.com/qg9R22y.png" group-title="Sports",Super-Sport Cricket
+http://ott.crichd.vip:8080/tprdugq9a/tprdugq9a/250797
+#EXTINF:-1 tvg-id="Star Sports 1" tvg-name="Star Sports 1" tvg-logo="https://i.imgur.com/w1h56b3.png" group-title="Sports",Star Sports 1
+http://ott.crichd.vip:8080/tprdugq9a/tprdugq9a/250811
+#EXTINF:-1 tvg-id="Star Sports 2" tvg-name="Star Sports 2" tvg-logo="https://i.imgur.com/wP8Z7Ld.png" group-title="Sports",Star Sports 2
+http://ott.crichd.vip:8080/tprdugq9a/tprdugq9a/250812
+#EXTINF:-1 tvg-id="Star Sports 1 Hindi" tvg-name="Star Sports 1 Hindi" tvg-logo="https://i.imgur.com/W6t5k6C.png" group-title="Sports",Star Sports 1 Hindi
+http://ott.crichd.vip:8080/tprdugq9a/tprdugq9a/250813
+#EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="Sony Ten 1" tvg-logo="https://i.imgur.com/mNYN4sT.png" group-title="Sports",Sony Ten 1
+http://ott.crichd.vip:8080/tprdugq9a/tprdugq9a/250814
+#EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="Sony Ten 2" tvg-logo="https://i.imgur.com/yVqGZ8x.png" group-title="Sports",Sony Ten 2
+http://ott.crichd.vip:8080/tprdugq9a/tprdugq9a/250815
+#EXTINF:-1 tvg-id="Sony Ten 3" tvg-name="Sony Ten 3" tvg-logo="https://i.imgur.com/rN5MvDk.png" group-title="Sports",Sony Ten 3
+http://ott.crichd.vip:8080/tprdugq9a/tprdugq9a/250816
+#EXTINF:-1 tvg-id="Sony Six" tvg-name="Sony Six" tvg-logo="https://i.imgur.com/x4hD6yK.png" group-title="Sports",Sony Six
+http://ott.crichd.vip:8080/tprdugq9a/tprdugq9a/250817
+#EXTINF:-1 tvg-id="TSN 1" tvg-name="TSN 1" tvg-logo="https://i.imgur.com/pfrX7lU.png" group-title="Sports",TSN 1
+http://ott.crichd.vip:8080/tprdugq9a/tprdugq9a/250818
