@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 ,Channel T1
-http://128.199.212.160/channelt1/1080/index.m3u8
+#EXTINF:-1 tvg-id="ITN.lk" tvg-logo="https://i.imgur.com/uG9A99e.png" group-title="Sri Lanka",ITN Sri Lanka
+https://itnlive-s.streann.com/loadbalancer/services/ITNLive/ITNLive.m3u8
