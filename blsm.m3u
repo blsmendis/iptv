@@ -1,3 +1,4 @@
 #EXTM3U
 #EXTINF:-1,ITN Sri Lanka
-http://222.165.182.21:8081/ITN/index.m3u8
+https://itnlive-s.streann.com/loadbalancer/services/ITNLive/ITNLive.m3u8
+
