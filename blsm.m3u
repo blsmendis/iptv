@@ -1,11 +1,1 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="ITN.lk" tvg-logo="https://i.imgur.com/uG9A99e.png" group-title="Sri Lanka",ITN Sri Lanka
-http://103.226.216.7:8080/ITN/index.m3u8
-
-#EXTINF:-1 tvg-id="Derana.lk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/TV_Derana.png" group-title="Sri Lanka",TV Derana
-https://tvd-pulltv-lh.akamaihd.net/i/tvderana_1@324106/master.m3u8
-
-#EXTINF:-1 tvg-id="HiruTV.lk" tvg-logo="https://i.imgur.com/63ceKPy.png" group-title="Sri Lanka",Hiru TV
-http://103.226.216.7:8080/Hiru/index.m3u8
 
